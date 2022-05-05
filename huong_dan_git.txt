@@ -1,0 +1,7 @@
+# Step 1: Go to your github website to create new repo link 
+Ex: https://github.com/khaivo1111/nhatro.git
+
+# Step 2: Create git folder on your computer by this code
+git init
+
+
